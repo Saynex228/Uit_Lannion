@@ -1,0 +1,8 @@
+<!-- Définition d'un bouton en SVG -->
+<svg width="36" height="36" xmlns="http://www.w3.org/2000/svg">
+    <!-- Rectangle avec les angles arrondis -->
+    <rect x="0" y="0" width="36" height="36" rx="5" ry="5" fill="#9227B7" />
+    
+    <!-- Flèche blanche dirigée vers le haut -->
+    <polygon points="18,10 26,26 22,26 18,16 14,26 10,26" fill="white" fill-opacity="0.5"/>
+</svg>
